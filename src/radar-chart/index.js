@@ -31,6 +31,7 @@ import MarkSeries from 'plot/series/mark-series';
 import PolygonSeries from 'plot/series/polygon-series';
 import LabelSeries from 'plot/series/label-series';
 import DecorativeAxis from 'plot/axis/decorative-axis';
+import 'core-js/fn/array/fill';
 
 const predefinedClassName = 'rv-radar-chart';
 const DEFAULT_FORMAT = format('.2r');

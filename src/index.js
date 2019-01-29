@@ -86,3 +86,4 @@ export {
 
 export AxisUtils from 'utils/axis-utils';
 export ScaleUtils from 'utils/scales-utils';
+import 'utils/polyfill-utils'
