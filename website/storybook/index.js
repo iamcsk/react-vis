@@ -8,6 +8,7 @@ import '../.storybook/storybook.css';
 import './areaseries-story';
 import './barseries-story';
 import './lineseries-story';
+import './linemark-series-story';
 import './markseries-story';
 import './radial-story';
 
